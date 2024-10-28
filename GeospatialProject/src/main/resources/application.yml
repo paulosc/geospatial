@@ -1,0 +1,11 @@
+server:
+  port: 8082
+  error:
+    include-message: always
+
+logging:
+  level:
+    org.springframework.web: INFO
+    org.springframework.security: DEBUG
+    com.example: DEBUG
+  file: app.log
