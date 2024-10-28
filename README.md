@@ -1,3 +1,6 @@
+***Projeto Geospatial***
+Este projeto utiliza Spring Boot para fornecer uma API REST que manipula dados de geolocalização, oferecendo operações CRUD para a entidade Person.
+
 ***Estrutura de Testes***
 Para garantir a qualidade e a consistência dos resultados, o projeto inclui:
 
